@@ -1,0 +1,9 @@
+Package: aptworld
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: python3 (>=3.6.0)
+Maintainer: Trevor Scheitrum <tascheitrum@gmail.com>
+Description: Aptworld
+  Hello World for packaging a python script into .deb
