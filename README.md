@@ -12,4 +12,4 @@ The prompt asked me to parse /var/lib/dpkg/status and/or other files to find all
 ## What To improve:
 Save the results to a file instead of printing it to the screen
 
-Write a GUI front-end with either py-qt or Kivi
+Write a GUI front-end with either py-qt or Kivy
