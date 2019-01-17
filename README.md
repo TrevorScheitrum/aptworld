@@ -1,8 +1,6 @@
 # aptworld
 Hello world for packaging a python script in a .deb package, requires python3.6.
 
-Once installed, run 'python3 /usr/local/bin/aptworld.py'
-
 ## How to run:
 After installing the .deb file, it has an installation requirement for python3 (>=3.6.0). Once installed, it will place an aptworld.py file in /usr/local/bin/aptworld.py.  
 
